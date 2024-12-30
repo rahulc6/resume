@@ -1,0 +1,120 @@
+---
+title: "Resume"
+subtitle: "[Your Friend's Name]"
+format: html
+---
+
+## Contact Information
+**[Your Friend's Name]**  
+[Your Address]  
+[Your Email Address] | [Your Phone Number] | [LinkedIn Profile]
+
+## Summary
+Experienced data analyst and software developer with expertise in R programming, machine learning, and data visualization. Adept at statistical modeling, dashboard creation, and version control. Passionate about leveraging data-driven insights to solve complex problems.
+
+## Skills
+
+### R Programming
+- **Libraries:**
+  - dplyr: Data manipulation and transformation
+  - tidyr: Data tidying and reshaping
+  - ggplot2: Advanced data visualization and custom plotting
+  - stringr: String manipulation
+  - lubridate: Handling and manipulating date/time data
+- **Regression Modeling:**
+  - Linear Regression: Predictive modeling and hypothesis testing
+  - Mixed Effect Model: Handling hierarchical and nested data
+  - Partial Prediction Regression Model: Feature selection and interpretation
+- **R Shiny:**
+  - Interactive Dashboards: Designing and deploying web-based applications
+  - Dynamic User Interfaces: Real-time updates and customization
+- **rmarkdown:**
+  - HTML: Interactive reports
+  - PDF: Publication-ready documents
+- **Quarto:**
+  - PPT: Slide presentations
+  - HTML: Online reports
+  - PDF: Comprehensive reporting
+
+### Machine Learning
+- **Algorithms:**
+  - XGBoost: High-performance gradient boosting for structured data
+  - Gradient Boost: Ensemble methods for classification and regression
+  - Nearest Neighbourhood Methods: Instance-based learning for classification
+- **Interpretability:**
+  - SHAP Analysis: Feature importance and interpretability of complex models
+
+### Data Analysis & Visualization
+- Advanced Exploratory Data Analysis (EDA): Identifying patterns and trends
+- Time Series Analysis: Forecasting and trend analysis
+- Geospatial Analysis: Visualizing spatial data and mapping
+
+### Version Control & Collaboration
+- Bitbucket: Code repository and version management
+- Gitea: Lightweight Git hosting
+- Jira: Project tracking and task management
+- Atlassian Confluence: Documentation and team collaboration
+- Slack: Team communication and integration
+- Notion: Knowledge base and task management
+
+### Microsoft Office Suite
+- **Excel:**
+  - Pivot Tables: Data summarization and analysis
+  - Macros: Automating repetitive tasks
+- **PowerPoint:**
+  - Creating impactful presentations
+- **Word:**
+  - Document formatting and editing
+
+### SQL
+- Data Wrangling: Cleaning and transforming data
+- Query Optimization: Enhancing performance of database queries
+- Analytical Functions: Advanced computations within SQL
+
+### Python
+- Streamlit Dashboards: Rapid development of interactive web applications
+- Pandas: Data manipulation
+- Matplotlib & Seaborn: Data visualization
+
+### Docker
+- Image Creation: Building custom environments for deployment
+- Container Deployment: Running scalable applications
+
+### Additional Skills
+- Git: Version control and collaboration
+- Tableau: Business intelligence and dashboard creation
+- API Integration: Fetching and utilizing web-based data sources
+- Statistical Analysis: Hypothesis testing, ANOVA, and multivariate analysis
+
+## Experience
+
+### Data Analyst  
+[Company Name] — [Start Date] to [End Date]  
+- Implemented statistical models using R for predictive analysis, improving forecast accuracy by 15%.
+- Designed and developed R Shiny dashboards for data visualization, enhancing reporting efficiency.
+- Automated workflows with R and SQL, reducing manual effort by 40%.
+
+### Machine Learning Engineer  
+[Company Name] — [Start Date] to [End Date]  
+- Built XGBoost and Gradient Boost models to classify data with high precision.
+- Conducted SHAP analysis to explain model predictions, increasing stakeholder trust.
+- Collaborated using Bitbucket and Atlassian tools for effective version control and project management.
+
+## Education
+**[Degree in Relevant Field]**  
+[University Name], [Year]
+
+## Projects
+
+**Interactive Dashboard for Sales Analysis**
+- Built with R Shiny to visualize and track sales metrics in real-time.
+
+**Predictive Maintenance with Machine Learning**
+- Used XGBoost to predict equipment failures, saving costs by proactive maintenance.
+
+## Certifications
+- [Certification Name], [Year]
+- [Certification Name], [Year]
+
+## References
+Available upon request.

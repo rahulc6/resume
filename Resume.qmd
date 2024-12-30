@@ -1,0 +1,82 @@
+---
+title: " "
+# author: ""
+output:
+  pdf_document: 
+    toc: true
+    toc_depth: 2
+    latex_engine: xelatex
+fontsize: 11pt
+geometry: margin=1in
+mainfont: "Georgia"
+sansfont: "Arial"
+lang: en
+# date: "December 2024"
+---
+
+# Contact Information
+- **Email**: your.email@example.com
+- **Phone**: +1 (555) 123-4567
+- **Website**: [www.yourwebsite.com](https://www.yourwebsite.com)
+- **LinkedIn**: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
+- **GitHub**: [github.com/yourname](https://github.com/yourname)
+
+# Summary
+Motivated professional with X years of experience in Y. Expertise in A, B, and C. Passionate about continuous learning and bringing innovative solutions to problems.
+
+# Education
+
+## Master of Science in Computer Science
+**University Name**, City, State  
+*Graduated*: May 2023
+
+## Bachelor of Science in Computer Science
+**University Name**, City, State  
+*Graduated*: May 2021
+
+# Work Experience
+
+## Software Engineer | **Company Name**
+*January 2023 – Present*  
+- Led the development of a web-based tool that improved team efficiency by 20%.
+- Implemented feature X using technology Y, which reduced processing time by 30%.
+- Collaborated with a cross-functional team to build scalable solutions.
+
+## Intern | **Company Name**
+*Summer 2022*  
+- Assisted in developing a customer-facing application that garnered 100,000+ active users.
+- Wrote unit tests and documentation for several modules.
+
+# Skills
+
+- **Programming Languages**: Python, R, JavaScript, Java
+- **Frameworks**: React, Django, Flask
+- **Databases**: MySQL, PostgreSQL
+- **Data Science**: Machine Learning, Data Visualization, R (ggplot2, dplyr)
+- **Tools**: Git, Docker, Kubernetes, Jenkins
+
+# Projects
+
+## Data Visualization Dashboard
+- Developed a dynamic, interactive dashboard in R Shiny that visualizes real-time financial data for stakeholders.
+
+## Web Scraping Tool
+- Built a Python-based web scraper to collect data from e-commerce websites and perform sentiment analysis on product reviews.
+
+# Certifications
+
+- Certified Data Scientist – Data Science Academy (2023)
+- Google Cloud Certified – Professional Cloud Architect (2022)
+
+# Volunteer Work
+
+## Code Mentor | **Non-Profit Organization**
+*June 2022 – Present*
+- Mentored underrepresented high school students in learning programming languages (Python, HTML/CSS).
+
+# Languages
+- English: Native
+- Spanish: Intermediate
+
+# References
+Available upon request.
